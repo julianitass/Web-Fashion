@@ -1,0 +1,7 @@
+/* ... */
+@media (max-width: 768px) {
+    /* Aturan CSS untuk tampilan mobile */
+    .container {
+        flex-direction: column;
+    }
+}
